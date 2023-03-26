@@ -1,0 +1,12 @@
+/* Define a cor de fundo azul para o menu */
+.MuiMenu-paper {
+  background-color: transparent;
+  margin-top: 4px;
+  width: 280px;
+}
+
+/* Define a cor branca para as letras do menu */
+.MuiMenu-list {
+  color: white;
+  background-color: #07275a;
+}
