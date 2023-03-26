@@ -1,0 +1,138 @@
+.overlayTypography5 {
+  position: absolute;
+  color: #b0badc;
+  font-size: 18px;
+  font-style: normal;
+  top: 0px;
+  left: 0px;
+}
+.overlayTypography6 {
+  position: absolute;
+  color: #b0badc;
+  font-size: 18px;
+  font-style: normal;
+  top: 25px;
+  left: 0px;
+}
+.overlayTypography7 {
+  position: absolute;
+  color: #b0badc;
+  font-size: 18px;
+  font-style: bold;
+  font: sans-serif;
+  top: 25px;
+  left: 220px;
+}
+.overlayTypography8 {
+  position: absolute;
+  color: #b0badc;
+  font-size: 18px;
+  font-style: normal;
+  top: 25px;
+  left: 300px;
+}
+.overlayTypography9 {
+  position: absolute;
+  color: #b0badc;
+  font-size: 18px;
+  font-style: normal;
+  top: 50px;
+  left: 0px;
+}
+.custom-button-Certificacoes {
+  position: absolute;
+  background-color: transparent;
+  color: white;
+  border: none;
+  cursor: pointer;
+  bottom: 150px;
+  height: 40px;
+  width: 65px;
+  right: 70px;
+  font-size: 18px;
+  padding: 0px;
+  border-bottom: 3px solid #2de024;
+}
+.custom-button-Certificacoes2 {
+  position: absolute;
+  background-color: transparent;
+  color: white;
+  border: none;
+  cursor: pointer;
+  bottom: 120px;
+  left: 0px;
+  font-size: 18px;
+  height: 40px;
+  width: 100px;
+  padding: 0px;
+  border-bottom: 3px solid #2de024;
+}
+.custom-button-Certificacoes3 {
+  position: absolute;
+  background-color: transparent;
+  color: white;
+  bottom: 270px;
+  border: none;
+  cursor: pointer;
+  height: 40px;
+  width: 130px;
+  padding: 8px 0px;
+  padding-bottom: 20px;
+  cursor: pointer;
+  margin-left: 90px;
+  font-style: bold;
+  border-bottom: 3px solid #2de024;
+  font-size: 18px;
+}
+.overlayTypography10 {
+  position: 0px;
+  color: #b0badc;
+  font-size: 18px;
+  font-style: normal;
+  left: 0px;
+}
+.overlayTypography11 {
+  position: 0px;
+  color: #b0badc;
+  font-size: 18px;
+  font-style: bold;
+  margin-top: -39px;
+  margin-left: 240px;
+}
+.overlayTypography12 {
+  position: 0px;
+  color: #b0badc;
+  font-size: 18px;
+  font-style: normal;
+  margin-top: -39px;
+  margin-left: 320px;
+}
+.overlayTypography13 {
+  position: 0px;
+  color: #b0badc;
+  font-size: 18px;
+  font-style: normal;
+  margin-top: -10px;
+}
+.overlayTypography14 {
+  position: 0px;
+  color: #b0badc;
+  font-size: 18px;
+  font-style: normal;
+  margin-top: -10px;
+}
+.MuiTabs-indicator {
+  background-color: rgb(1, 255, 1);
+}
+
+.MuiTabs-textColorPrimary {
+  color: white;
+}
+
+.app-bar {
+  background-color: transparent;
+  box-shadow: none;
+}
+.app-bar a {
+  color: white;
+}
