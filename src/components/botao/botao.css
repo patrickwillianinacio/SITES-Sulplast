@@ -1,0 +1,45 @@
+.custom-button-Topo {
+  color: white;
+  text-transform: initial;
+  margin-top: 5px;
+  font-weight: bold;
+  background: transparent;
+  border: none;
+  font-size: 15px;
+}
+
+.custom-button-underline {
+  border-bottom: 5px solid rgb(8, 219, 8);
+  color: white;
+  font-size: 15px;
+  text-transform: initial;
+  margin-bottom: -4px;
+  font-weight: bold;
+  background: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.custom-button-Topo2 {
+  color: white;
+  text-transform: initial;
+  font-weight: bold;
+  background: transparent;
+  border: none;
+  font-size: 15px;
+  animation: none;
+}
+
+.custom-button-underline2 {
+  border-bottom: 5px solid rgb(8, 219, 8);
+  color: white;
+  font-size: 15px;
+  text-transform: initial;
+  margin-bottom: -15px;
+  font-weight: bold;
+  background: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-bottom: 20px;
+}

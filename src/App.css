@@ -1,0 +1,1154 @@
+.container {
+  position: relative;
+}
+.overlayImagem1 {
+  position: absolute;
+  top: 100px;
+  left: 600px;
+}
+.overlayImagem2 {
+  position: absolute;
+  top: 200px;
+  left: 620px;
+}
+.overlayImagem3 {
+  position: absolute;
+  top: 700px;
+  left: 1100px;
+}
+.overlayImagem4 {
+  position: absolute;
+  top: 1015px;
+  left: 540px;
+}
+.overlayImagem5 {
+  position: absolute;
+  top: 1015px;
+  left: 650px;
+}
+.overlayImagem6 {
+  position: absolute;
+  top: 1015px;
+  left: 750px;
+}
+.overlayImagem7 {
+  position: absolute;
+  top: 1015px;
+  left: 850px;
+}
+.overlayImagem8 {
+  position: absolute;
+  top: 1015px;
+  left: 950px;
+}
+.overlayImagem9 {
+  position: absolute;
+  top: 1181px;
+  left: 900px;
+}
+.overlayImagemAgricola {
+  position: absolute;
+  top: 1738px;
+}
+.overlayImagemMineracao {
+  position: absolute;
+  top: 2295px;
+  left: 900px;
+}
+.overlayImagemSetores {
+  position: absolute;
+  top: 2853px;
+}
+.overlayImagemCerticicacoes {
+  position: absolute;
+  top: 3411px;
+}
+.overlayImagem1Carrousel {
+  position: absolute;
+  top: 100px;
+  left: 600px;
+}
+.overlayImagem2Carrousel {
+  position: absolute;
+  top: 208px;
+  left: 450px;
+}
+.custom-button-Sobre {
+  background-color: #093170;
+  color: white;
+  border-radius: 8px;
+  padding: 15px 25px;
+  cursor: pointer;
+  margin-top: 400px;
+  margin-left: 350px;
+  font-size: medium;
+}
+.custom-button-Sobre:hover {
+  color: white;
+  background-color: #091933;
+}
+.overlayTextoEmpresas {
+  position: absolute;
+  top: 100px;
+  left: 870px;
+  color: white;
+}
+.overlayTextoTecnologias {
+  position: absolute;
+  top: 100px;
+  left: 1120px;
+  color: white;
+}
+.overlayTextoAmbiente {
+  position: absolute;
+  top: 100px;
+  left: 1400px;
+  color: white;
+}
+.overlayFale {
+  position: absolute;
+  top: 100px;
+  left: 1630px;
+  color: white;
+}
+.overlayTypography {
+  font-size: 18px;
+}
+.overlayCreditos {
+  position: absolute;
+  top: 400px;
+  left: 600px;
+  color: rgba(255, 255, 255, 0.342);
+}
+.overlaySulplast {
+  position: absolute;
+  top: 660px;
+  left: 350px;
+  color: #093170;
+  font-size: 40px;
+  font-style: normal;
+}
+.overlaySulplast1 {
+  position: absolute;
+  top: 760px;
+  left: 350px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 18px;
+  font-style: normal;
+}
+.overlaySulplast2 {
+  position: absolute;
+  top: 760px;
+  left: 655px;
+  color: rgb(10, 10, 10);
+  font-size: 18px;
+  font-style: bold;
+}
+.overlaySulplast3 {
+  position: absolute;
+  top: 760px;
+  left: 735px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 18px;
+  font-style: normal;
+}
+.overlaySulplast4 {
+  position: absolute;
+  top: 790px;
+  left: 350px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 18px;
+  font-style: normal;
+}
+.overlaySulplast5 {
+  position: absolute;
+  top: 820px;
+  left: 350px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 18px;
+  font-style: normal;
+}
+.overlaySulplast6 {
+  position: absolute;
+  top: 850px;
+  left: 350px;
+  color: rgb(10, 10, 10);
+  font-size: 18px;
+  font-style: bold;
+}
+.overlaySulplast7 {
+  position: absolute;
+  top: 850px;
+  left: 430px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 18px;
+  font-style: normal;
+}
+.overlaySulplast8 {
+  position: absolute;
+  top: 850px;
+  left: 740px;
+  color: rgb(10, 10, 10);
+  font-size: 18px;
+  font-style: bold;
+}
+.overlaySulplast9 {
+  position: absolute;
+  top: 880px;
+  left: 350px;
+  color: rgb(10, 10, 10);
+  font-size: 18px;
+  font-style: bold;
+}
+.custom-button-SulplastUnderline {
+  background-color: transparent;
+  color: rgb(10, 10, 10);
+  border: none;
+  padding: 8px 16px;
+  top: 920px;
+  left: 350px;
+  text-decoration: underline;
+}
+.hr {
+  border: none;
+  border-top: 1px solid rgba(158, 158, 158, 0.623);
+  margin-top: -90px;
+  margin-left: 350px;
+  width: 700px;
+}
+.overlayAutomotivo {
+  position: absolute;
+  top: 1350px;
+  left: 200px;
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+}
+.overlayAutomotivo2 {
+  position: absolute;
+  top: 1450px;
+  left: 200px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAutomotivo3 {
+  position: absolute;
+  top: 1480px;
+  left: 200px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAutomotivo4 {
+  position: absolute;
+  top: 1510px;
+  left: 200px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAutomotivo5 {
+  position: absolute;
+  top: 1510px;
+  left: 390px;
+  color: rgb(10, 10, 10);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAutomotivo6 {
+  position: absolute;
+  top: 1510px;
+  left: 480px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAutomotivo7 {
+  position: absolute;
+  top: 1540px;
+  left: 200px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAutomotivo8 {
+  position: absolute;
+  top: 1570px;
+  left: 200px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAgricola {
+  position: absolute;
+  top: 1880px;
+  left: 1100px;
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+}
+.overlayAgricola2 {
+  position: absolute;
+  top: 1980px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAgricola3 {
+  position: absolute;
+  top: 2010px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAgricola4 {
+  position: absolute;
+  top: 2040px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAgricola5 {
+  position: absolute;
+  top: 2040px;
+  left: 1345px;
+  color: rgb(10, 10, 10);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAgricola6 {
+  position: absolute;
+  top: 2040px;
+  left: 1430px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAgricola7 {
+  position: absolute;
+  top: 2070px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayAgricola8 {
+  position: absolute;
+  top: 2100px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayMineracao {
+  position: absolute;
+  top: 2400px;
+  left: 200px;
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+}
+.overlayMineracao2 {
+  position: absolute;
+  top: 2500px;
+  left: 200px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayMineracao3 {
+  position: absolute;
+  top: 2500px;
+  left: 220px;
+  color: rgb(10, 10, 10);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayMineracao4 {
+  position: absolute;
+  top: 2500px;
+  left: 305px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayMineracao5 {
+  position: absolute;
+  top: 2535px;
+  left: 200px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayMineracao6 {
+  position: absolute;
+  top: 2570px;
+  left: 200px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayMineracao7 {
+  position: absolute;
+  top: 2605px;
+  left: 200px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayMineracao8 {
+  position: absolute;
+  top: 2640px;
+  left: 200px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlaySetores {
+  position: absolute;
+  top: 3000px;
+  left: 1100px;
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+}
+.overlaySetores2 {
+  position: absolute;
+  top: 3080px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlaySetores3 {
+  position: absolute;
+  top: 3110px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlaySetores4 {
+  position: absolute;
+  top: 3140px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlaySetores5 {
+  position: absolute;
+  top: 3170px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlaySetores6 {
+  position: absolute;
+  top: 3200px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlaySetores7 {
+  position: absolute;
+  top: 2070px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayCertificacoes {
+  position: absolute;
+  top: 3530px;
+  left: 1100px;
+  color: black;
+  font-size: 30px;
+  font-style: normal;
+}
+.overlayCertificacoes2 {
+  position: absolute;
+  top: 3610px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayCertificacoes3 {
+  position: absolute;
+  top: 3610px;
+  left: 1120px;
+  color: black;
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayCertificacoes4 {
+  position: absolute;
+  top: 3610px;
+  left: 1210px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayCertificacoes5 {
+  position: absolute;
+  top: 3640px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayCertificacoes6 {
+  position: absolute;
+  top: 3670px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayCertificacoes7 {
+  position: absolute;
+  top: 3700px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayCertificacoes8 {
+  position: absolute;
+  top: 3730px;
+  left: 1100px;
+  color: rgba(10, 10, 10, 0.623);
+  font-size: 20px;
+  font-style: normal;
+}
+.overlayLink {
+  position: absolute;
+  top: 100px;
+  left: 1630px;
+  color: white;
+}
+.overlayTypography1 {
+  font-size: 13px;
+}
+.overlayRodape {
+  font-size: 13px;
+  margin-top: 35px;
+}
+.overlayTypography2 {
+  font-size: 13px;
+  margin-left: 185px;
+  margin-top: -24px;
+}
+.custom-button-Grupo1 {
+  background-color: transparent;
+  color: rgba(255, 255, 255, 0.342);
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  margin-left: -15px;
+}
+.custom-button-Grupo1:hover {
+  color: white;
+}
+.custom-button-Grupo2 {
+  background-color: transparent;
+  color: rgba(255, 255, 255, 0.342);
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  margin-left: -15px;
+}
+.custom-button-Grupo2:hover {
+  color: white;
+}
+.custom-button-Grupo3 {
+  background-color: transparent;
+  color: rgba(255, 255, 255, 0.342);
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  margin-left: -15px;
+}
+.custom-button-Grupo3:hover {
+  color: white;
+}
+.custom-button-Grupo4 {
+  background-color: transparent;
+  position: absolute;
+  color: rgba(255, 255, 255, 0.342);
+  border: none;
+  padding: 8px 0px;
+  cursor: pointer;
+  margin-left: 0px;
+  text-align: left;
+  right: -50px;
+}
+.custom-button-Grupo4:hover {
+  color: white;
+}
+.custom-button-Grupo5 {
+  background-color: transparent;
+  color: rgba(255, 255, 255, 0.342);
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  margin-left: -15px;
+  margin-top: 45px;
+}
+.custom-button-Grupo5:hover {
+  color: white;
+}
+.custom-button-Grupo6 {
+  background-color: transparent;
+  color: rgba(255, 255, 255, 0.342);
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  margin-left: -15px;
+}
+.custom-button-Grupo6:hover {
+  color: white;
+}
+.custom-button-Creditos {
+  background-color: transparent;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.custom-button-Creditos:hover {
+  text-decoration: underline;
+}
+
+.overlayCarrouselTexto1 {
+  position: absolute;
+  top: 60px;
+  left: 1050px;
+  color: #093170;
+}
+.overlayTypographyCarrousel1 {
+  font-size: 50px;
+}
+.overlayCarrouselTexto2 {
+  position: absolute;
+  top: 60px;
+  left: 1050px;
+  color: #093170;
+}
+.overlayTypographyCarrousel2 {
+  font-size: 50px;
+}
+.overlayCarrouselTexto2 {
+  position: absolute;
+  top: 150px;
+  left: 900px;
+  color: #093170;
+  text-align: start;
+  padding: 20px 310px;
+  margin-left: -160px;
+}
+.overlayTypographyCarrousel2 {
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+}
+.overlayCarousel {
+  position: absolute;
+  top: 0px;
+  left: 120vh;
+  width: 743px;
+  height: 465px;
+  background-color: white;
+}
+
+.circuloExterno {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(214, 214, 214);
+  margin-top: 40px;
+  margin-left: -35px;
+}
+
+.circuloInterno {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -66px;
+  margin-left: -31px;
+}
+.overlayImagemListCheckCarrousel {
+  position: absolute;
+  top: 53px;
+  left: -22px;
+}
+.overlayTypographyCirculoTexto {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 45px;
+}
+.circuloExterno1 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(214, 214, 214);
+  margin-top: 40px;
+  margin-left: -35px;
+}
+.circuloInterno1 {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -66px;
+  margin-left: -31px;
+}
+
+.overlayImagemListCheckCarrousel1 {
+  position: absolute;
+  top: 159px;
+  left: -22px;
+}
+.overlayTypographyCirculoTexto1 {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 150px;
+}
+
+.circuloExterno2 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(214, 214, 214);
+  margin-top: 40px;
+  margin-left: -35px;
+}
+.circuloInterno2 {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -66px;
+  margin-left: -31px;
+}
+
+.overlayImagemListCheckCarrousel2 {
+  position: absolute;
+  top: 265px;
+  left: -22px;
+}
+
+.overlayTypographyCirculoTexto2 {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 260px;
+}
+
+.circuloExterno3 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(214, 214, 214);
+  margin-top: 40px;
+  margin-left: -35px;
+}
+.circuloInterno3 {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -66px;
+  margin-left: -31px;
+}
+
+.overlayImagemListCheckCarrousel3 {
+  position: absolute;
+  top: 370px;
+  left: -22px;
+}
+.overlayTypographyCirculoTexto3 {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 365px;
+}
+
+.overlayCarrouselTexto3 {
+  position: absolute;
+  font: sans-serif;
+  top: 60px;
+  left: 250px;
+  color: #093170;
+  font-weight: normal;
+}
+.overlayTypographyCarrousel3 {
+  font-size: 50px;
+}
+.overlayCarrouselTexto4 {
+  position: absolute;
+  top: 100px;
+  left: 10px;
+  color: #093170;
+}
+.overlayTypographyCarrousel4 {
+  font: sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+}
+.overlayCarrouselTexto5 {
+  /* position: absolute; */
+  margin-top: -2px;
+  margin-left: 140px;
+  color: rgb(64, 226, 64);
+  font: sans-serif;
+  font-size: 18px;
+  font-weight: bolder;
+  text-align: left;
+}
+
+.overlayCarrouselTexto6 {
+  margin-top: 60px;
+  margin-left: 45px;
+  color: rgb(64, 226, 64);
+  font: sans-serif;
+  font-size: 18px;
+  font-weight: bolder;
+  text-align: left;
+}
+.overlayTypographyCirculoTexto4 {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 99px;
+}
+.circuloExterno4 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(214, 214, 214);
+  margin-top: 90px;
+  margin-left: -35px;
+}
+.circuloInterno4 {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -66px;
+  margin-left: -31px;
+}
+
+.overlayImagemListCheckCarrousel4 {
+  position: absolute;
+  top: 102px;
+  left: -22px;
+}
+.overlayTypographyCirculoTexto5 {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 200px;
+}
+
+.circuloExterno5 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(214, 214, 214);
+  margin-top: 40px;
+  margin-left: -35px;
+}
+.circuloInterno5 {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -66px;
+  margin-left: -31px;
+}
+
+.overlayImagemListCheckCarrousel5 {
+  position: absolute;
+  top: 209px;
+  left: -22px;
+}
+
+.overlayTypographyCirculoTexto6 {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 310px;
+}
+
+.circuloExterno6 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(214, 214, 214);
+  margin-top: 40px;
+  margin-left: -35px;
+}
+.circuloInterno6 {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -66px;
+  margin-left: -31px;
+}
+
+.overlayImagemListCheckCarrousel6 {
+  position: absolute;
+  top: 315px;
+  left: -22px;
+}
+.overlayTypographyCirculoTexto3 {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 365px;
+}
+.overlayCarrouselTexto7 {
+  margin-top: -2px;
+  margin-left: 120px;
+  color: rgb(64, 226, 64);
+  font: sans-serif;
+  font-size: 18px;
+  font-weight: bolder;
+  text-align: left;
+}
+
+.overlayTypographyCirculoTexto6 {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 200px;
+}
+
+.circuloExterno6 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(214, 214, 214);
+  margin-top: 40px;
+  margin-left: -35px;
+}
+.circuloInterno {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -66px;
+  margin-left: -31px;
+}
+
+.overlayImagemListCheckCarrousel5 {
+  position: absolute;
+  top: 209px;
+  left: -22px;
+}
+
+.overlayTypographyCirculoTexto6 {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 310px;
+}
+
+.circuloExterno6 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(214, 214, 214);
+  margin-top: 40px;
+  margin-left: -35px;
+}
+.circuloInterno6 {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -66px;
+  margin-left: -31px;
+}
+
+.overlayImagemListCheckCarrousel6 {
+  position: absolute;
+  top: 315px;
+  left: -22px;
+}
+
+.circuloExterno7 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(214, 214, 214);
+  margin-top: 150px;
+  margin-left: -35px;
+}
+
+.circuloInterno7 {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -66px;
+  margin-left: -31px;
+}
+.overlayImagemListCheckCarrousel7 {
+  position: absolute;
+  top: 53px;
+  left: -22px;
+}
+.overlayTypographyCirculoTexto7 {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 160px;
+}
+.circuloExterno8 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: rgb(214, 214, 214);
+  margin-top: 40px;
+  margin-left: -35px;
+}
+.circuloInterno8 {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background-color: white;
+  margin-top: -66px;
+  margin-left: -31px;
+}
+
+.overlayImagemListCheckCarrousel8 {
+  position: absolute;
+  top: 159px;
+  left: -22px;
+}
+.overlayTypographyCirculoTexto8 {
+  position: absolute;
+  font: sans-serif;
+  color: #093170;
+  font-size: 20px;
+  font-weight: normal;
+  left: 70px;
+  top: 265px;
+}
+.overlayImagemListCheckCarrousel7 {
+  position: absolute;
+  top: 162px;
+  left: -22px;
+}
+.overlayImagemListCheckCarrousel8 {
+  position: absolute;
+  top: 268px;
+  left: -22px;
+}
+.label {
+  color: #333;
+  font: normal 1.3em/1.75em lato, sans-serif;
+  text-transform: initial;
+  font-weight: normal;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+.label2 {
+  color: #333;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  text-transform: initial;
+  font-family: sans-serif;
+  font-size: 12px;
+  margin-left: 5px;
+}
+.label3 {
+  color: #333;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  text-transform: initial;
+  font-weight: normal;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+.custom-button-Email {
+  color: #093170;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  text-transform: initial;
+  font-weight: normal;
+  font-family: sans-serif;
+  font-size: 12px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-left: -4px;
+  margin-top: -2px;
+}
+
+.custom-button-Email:hover {
+  text-decoration: underline;
+}
+.custom-button-Webmail {
+  color: #093170;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  text-transform: initial;
+  font-weight: normal;
+  font-family: sans-serif;
+  font-size: 12px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin-left: 0px;
+  margin-top: -2px;
+}
+
+.custom-button-Webmail:hover {
+  text-decoration: underline;
+}
